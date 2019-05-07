@@ -15,7 +15,7 @@ function inc(n) {
 }
 
 function dec(n) {
-  return n--;
+  return --n;
 }
 
 function subtract(a, b) {
